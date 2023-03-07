@@ -2,6 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FiArrowDownLeft } from 'react-icons/fi';
 
+import api from '../../services/api';
+
 import './style.css'
 import logoImg from '../../assets/logo.svg';
 
